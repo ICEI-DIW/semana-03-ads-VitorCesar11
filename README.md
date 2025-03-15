@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Vitor Cesar Arruda Xavier
+- Matricula: 887999
+- Proposta de projeto escolhida: Guia turístico 
+- Breve descrição sobre seu projeto: Site html + css sobre um guia turístico da região nordeste
 
 
 ## Print do esboço criada

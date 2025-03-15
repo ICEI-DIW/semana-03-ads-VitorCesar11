@@ -100,3 +100,7 @@ border-bottom: 2px solid green ;
     padding: 10px; /* Padding inside the form */
     margin-left: 400px;
 }
+footer{
+    text-align: center;
+    background-color: chartreuse;
+}

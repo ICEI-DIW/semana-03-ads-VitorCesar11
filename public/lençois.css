@@ -92,17 +92,17 @@ body{
     }
    
     .login {
-        position: relative; /* Position relative for absolute positioning of the form */
+        position: relative; 
     }
     
     .form-login {
-        display: flex; /* Use flexbox for form layout */
-        flex-direction: column; /* Stack inputs vertically */
-        align-items: flex-end; /* Align items to the right */
-        background-color: #fff; /* White background for the form */
-        border: 1px solid #ccc; /* Light border */
-        border-radius: 10px; /* Rounded corners */
-        padding: 10px; /* Padding inside the form */
+        display: flex; 
+        flex-direction: column; 
+        align-items: flex-end; 
+        background-color: #fff; 
+        border: 1px solid #ccc; 
+        border-radius: 10px; 
+        padding: 10px; 
         margin-left: 400px;
     }
        

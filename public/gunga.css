@@ -1,0 +1,110 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+    padding: 0  ;
+    width: 1920px;
+    
+    }
+    header>div>a>img{   
+        width: 30px;
+        height: 30px;
+    }
+    .header-content {
+        display: flex; 
+        align-items: center; 
+    }
+    
+    .header-content img {
+        margin-right: 10px; 
+        margin-left: 30px;
+    }
+    
+    .header-content span {
+        margin-left: 10px; 
+    }
+    
+    header{
+        padding: 20px;
+        border-bottom: 2px solid green;
+        
+    }
+    
+    #title{
+        margin-left: 530px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+     .brasa{
+        text-align: center;
+        margin-top: 10px;
+     }
+     .brasa img{
+        width: 120px;
+     }
+    
+     main > div:first-child {
+    border-bottom: 2px solid green ;
+     }
+    
+     .imagens{
+            height: 250px;
+            margin: 10px 10px 10px 0px;
+            width: 350px;
+            border-radius: 50px;
+            margin-left: 10px;
+     }
+     a:link{
+        text-decoration: none;
+
+     }
+     h1{
+        color: black;
+     }
+
+     .conteiner{
+        padding: 20px;
+     }
+     .container {
+        display: flex; 
+        justify-content: center; 
+        align-items: flex-start; 
+        padding: 20px; 
+    
+    }
+    
+    .content-wrapper {
+        display: flex; 
+    
+    }
+    
+    .image {
+        max-width: 750px; 
+        height: 500px;
+        margin-right: 20px; 
+    }
+    
+    .text-content {
+        max-width: 600px; 
+        background-color: aquamarine;
+        border-radius: 20px;
+        color:rgb(8, 66, 0);
+        font-size: larger;
+    }
+   
+    .login {
+        position: relative; 
+    }
+    
+    .form-login {
+        display: flex; 
+        flex-direction: column; 
+        align-items: flex-end; 
+        background-color: #fff; 
+        border: 1px solid #ccc; 
+        border-radius: 10px;
+        padding: 10px; 
+        margin-left: 400px;
+    }
+       
+    h3{
+        font-size: xx-large;
+    }
